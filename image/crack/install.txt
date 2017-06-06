@@ -1,0 +1,16 @@
+we offer you two ways to license matlab r2008a:
+
+standalone
+1) choose "install manually without using the internet"		
+2) enter the "file installation key"
+   11111-11111-11111-02626
+3) use "license_standalone.dat" when asked for license file
+
+network
+1) choose "install manually without using the internet"		
+2) enter the "file installation key"
+   11111-11111-11111-00770
+3) if neccessary install "license manager 11.4"
+4) use "license_server.dat" when asked for license file
+
+enjoy !
